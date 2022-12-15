@@ -24,3 +24,7 @@ Move right - Key Right |
 Shoot - K |
 
 Enviroment collision is not yet implemented, so players can still walk trough enviroments
+
+
+Inspired by 2D Game Development tutorial 
+https://www.youtube.com/watch?v=om59cwR7psI&list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq
