@@ -9,16 +9,18 @@ The goal is to shoot the other player
 
 Movement for Player 1
 
-Move up - W
-Move down - S
-Move left - A
-Move right - D
-Shoot - SPACE
+Move up - W |
+Move down - S |
+Move left - A |
+Move right - D |
+Shoot - SPACE |
 
 Movement for Player 2
 
-Move up - Key Up
-Move down - Key Down
-Move left - Key Left
-Move right - Key Right
-Shoot - K
+Move up - Key Up |
+Move down - Key Down |
+Move left - Key Left |
+Move right - Key Right |
+Shoot - K |
+
+Enviroment collision is not yet implemented, so players can still walk trough enviroments
